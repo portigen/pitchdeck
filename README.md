@@ -74,6 +74,8 @@ Current remote monitoring solutions face three critical challenges:
 - **Cybersecurity**: Secure edge processing for sensitive data
 - **Disaster Response**: Deployable monitoring in emergency situations
 
+![terminal-pos-biletomat-parkingomat](https://github.com/user-attachments/assets/95d84f93-0072-4e78-9571-3d9e676b00fc)
+
 ---
 
 ## Contact
